@@ -1,4 +1,4 @@
-#!/usr/bin/env python3.4
+#!/usr/bin/env python3.7
 # Functions and Variables
 
 # function with 2 arguments, it will print out the arguments, when it's called
