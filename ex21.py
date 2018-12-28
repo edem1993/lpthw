@@ -24,7 +24,7 @@ height = subtract(78, 4)
 weight = multiply(90, 2)
 iq = divide(100, 2)
 
-print(f"Age: {age}}, Height: {height}, Weight: {weight}, IQ: {iq}")
+print(f"Age: {age}, Height: {height}, Weight: {weight}, IQ: {iq}")
 
 
 # A puzzle for the extra credit, type it in anyway.
